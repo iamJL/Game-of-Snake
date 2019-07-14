@@ -1,0 +1,1 @@
+This an adaptation of the famous snake game found on Nokia phones. The concept of the game is simple where the player maneuvers a line which grows in length, with the line itself being the primary obstacle.
